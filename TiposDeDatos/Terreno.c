@@ -20,7 +20,7 @@ int main()
     area=frente*fondo;
     preciofinal=area*preciom2;
     //salida
-    printf("El area del terreno es : %f metros cuadrados\nsu costo seria de %f pesos",area,preciofinal);
+    printf("El area del terreno es : %f metros cuadrados\n\asu costo seria de %f pesos",area,preciofinal);
     getch();
 
     return 0;
