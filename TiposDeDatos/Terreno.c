@@ -1,7 +1,7 @@
 //en este apatardado agregamos las librerias para manejo de entradas y salidas
-#include<stdio.h>
+//#include<stdio.h>
 /*esta libreria es un poco antigua y actualmente casi no se utiliza
-esto es un comentario multilinea*/
+esto es un comentario multilinea
 #include<conio.h>
 
 int main()
@@ -25,4 +25,4 @@ int main()
 
     return 0;
     
-}
+}*/
